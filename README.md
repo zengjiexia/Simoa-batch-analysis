@@ -16,7 +16,7 @@ To use this tool, you will first need latest Anaconda installed on your laptop. 
 	```
 	4. You will have a lot going on in the prompt now, just wait for it to finish.
 
-## Running the code:
+## Running the code
 1. Search "Anaconda Prompt" on your PC and open it.
 2. Type in the following:
 ```
